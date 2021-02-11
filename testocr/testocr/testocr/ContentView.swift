@@ -17,6 +17,7 @@ struct ContentView: View {
                 override func viewDidLoad() {
                     super.viewDidLoad()
 
+                    //test
                     let start = Date()
 
                     let fileName = "sample.png"
