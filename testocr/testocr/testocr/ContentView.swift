@@ -13,7 +13,7 @@ struct ContentView: View {
         Button(action: {
             
             let swiftyTesseract = SwiftyTesseract(language: RecognitionLanguage.japanese)
-
+                //test
                 override func viewDidLoad() {
                     super.viewDidLoad()
 
