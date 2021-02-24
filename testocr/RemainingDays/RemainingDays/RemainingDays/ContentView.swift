@@ -19,6 +19,7 @@ struct ContentView: View {
                 .textFieldStyle(RoundedBorderTextFieldStyle())
                 .frame(width: 250)
             
+            // test
             if (!name.isEmpty) {
                 Text("\(name)さん、こんにちは！")
             }
